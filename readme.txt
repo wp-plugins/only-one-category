@@ -3,8 +3,8 @@ Contributors: pressupinc, davidbhayes
 Plugin URI: http://pressupinc.com/wordpress-plugins/only-one-category/
 Tags: categories, edit, post, admin
 Requires at least: 2.8
-Tested up to: 3.6
-Stable tag: 0.2.0
+Tested up to: 4.1.2
+Stable tag: 1.0.1
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
@@ -43,6 +43,13 @@ Not currently. If they ever make sense — if for example we were to add the opt
 
 == CHANGELOG ==
 
+= 1.0.1 (2015.04.21) =
+* VCS headaches...
+
+= 1.0.0 (2015.04.21) =
+* Some basic cleanup of code quality.
+* Making it not function for quick-edit, as it was broken and so far it's not been worth fixing.
+
 = 0.2.0 (2013.08.16) =
 * Made plugin file's description shorter.
 * Confirmed 3.6 compatibility.
@@ -65,3 +72,4 @@ Not currently. If they ever make sense — if for example we were to add the opt
 
 = 0.1.0 (2013.07.22) =
 * Initial
+
